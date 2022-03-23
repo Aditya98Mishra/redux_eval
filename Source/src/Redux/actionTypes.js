@@ -1,0 +1,5 @@
+export const GetProductsReq  = "GetProductsReq"
+export const GetProductsSuccess  = "GetProductsSuccess"
+export const GetProductsFailure  = "GetProductsFailure"
+export const GetproductsData  = "GetproductsData"
+export const SortProducts  = "SortProducts"
